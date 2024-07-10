@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(216, 216, 104);
+    margin:0;
+    padding:0;
+}
+
+.main{
+    padding: 5px 300px;
+    margin: 5px 100px;
+}
+
+.first{
+    margin:100px auto;
+    border: 3px solid black;
+    padding: 60px;
+    background-color:rgb(237, 237, 150);
+}
+
+/* .one{
+    
+} */
+
+h2{
+    font-size: 30px;
+}
+
+summary{
+    font-size: 20px;
+    padding: 10px 0px 10px;
+    border-bottom: 1px solid black;
+    margin-bottom: 20px;
+}
+
+button{
+    border-radius: 40%;
+    float: right;
+    background-color:rgb(237, 237, 150);
+}
